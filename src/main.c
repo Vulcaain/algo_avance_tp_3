@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("coucou bande de nouilles !");
+    printf("coucou le bros !");
     return 0;
 }
