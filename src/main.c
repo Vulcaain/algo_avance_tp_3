@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void) {
-    
+    coucou
     return 0;
 }
