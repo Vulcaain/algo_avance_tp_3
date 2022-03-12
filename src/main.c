@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Je modifie ce fichier !");
+    printf("Ici la terre ! Coucou !");
     return 0;
 }
