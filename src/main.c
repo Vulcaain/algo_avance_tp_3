@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void) {
-    coucou
+    coucou les bois
     return 0;
 }
