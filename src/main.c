@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("ici la branche principale !");
+    printf("ici la branche secondaire !");
     return 0;
 }
