@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Coucou les bois !");
+    printf("Ceci est un message affiché dans la console !");
 
     return 0;
 }
