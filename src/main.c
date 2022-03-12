@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Ici la terre ! Salutations !");
+    printf("ici la branche principale !");
     return 0;
 }
