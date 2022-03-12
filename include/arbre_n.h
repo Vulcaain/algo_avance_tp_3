@@ -12,6 +12,6 @@ typedef struct noeud {
 
 Noeud* initialiser_noeud(char chr);
 
-Noeud* insertion(Noeud *noeud_p, char* mot);
+void insertion(Noeud *noeud_p, char* mot);
 
 #endif

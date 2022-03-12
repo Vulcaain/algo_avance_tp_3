@@ -7,7 +7,7 @@ Noeud* initialiser_noeud(char chr) {
     nd->frere = NULL;
 }
 
-Noeud* insertion(Noeud *nd, char* mot) {
+void insertion(Noeud *nd, char* mot) {
     /* Dans le cas où le noeud est NULL, on ajoute tout (ou le reste) du mot */
     if (nd == NULL) {
         nd = initialiser_noeud(*mot);
