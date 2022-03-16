@@ -23,7 +23,7 @@ void insertion(Noeud *nd, char* mot) {
     if (nd->charactere == *mot) {
         insertion(nd->fils, mot+1);
     }
-    else if (nd->charactere < *mot) {
+    else if (*mot > nd->charactere) {
         insertion(nd->frere, mot);
     }
     else {
